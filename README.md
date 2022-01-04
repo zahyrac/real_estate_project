@@ -1,0 +1,2 @@
+# real_estate_project
+This project aims to look at the impact that the Covid-19 pandemic had on the housing market in the New York Metropolitan Area and use data mining techniques to gain insights into how the housing market would behave in the future. The scope of the project was based on public real estate and COVID-19 data from the City and State of New York and a Python Crawler and API were used to crawl and scrape price and sales data from Zillow. 
