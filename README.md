@@ -1,2 +1,6 @@
-# real_estate_project
+# Real Estate Project
 This project aims to look at the impact that the Covid-19 pandemic had on the housing market in the New York Metropolitan Area and use data mining techniques to gain insights into how the housing market would behave in the future. The scope of the project was based on public real estate and COVID-19 data from the City and State of New York and a Python Crawler and API were used to crawl and scrape price and sales data from Zillow. 
+
+This project is highly relevant in the context of housing shortages and a general increase in home prices. The COVID-19 pandemic is an event that has affected multiple lifestyles and its ramifications continue to have a significant impact on the real estate sphere. Faced with this panorama, this project seeks to find solutions and a future direction to address this problem in New York City.
+
+In the tools and techniques selection stage, the process was divided it into two steps: data collection and data preprocessing. To collect the data different sources and tools were used. For historical data and data on COVID-19, datasets were extracted from Kaggle and also public data from the City and State of New York. To identify recently sold properties an optimized API was used to extract as many listings as possible from Zillow (500 for New York City and 540 for Westchester County) and to obtain the property price levels a crawler was implemented with the help of Python's BeautifulSoup and HTTP requests libraries.
